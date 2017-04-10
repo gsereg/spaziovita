@@ -6010,6 +6010,7 @@ body > * {
   background-position: center; }
 
 .navbar {
+  height: 80px;
   background-color: rgba(255, 255, 255, 0.8); }
   .navbar a {
     font-weight: bold; }
