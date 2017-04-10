@@ -6009,10 +6009,10 @@ body > * {
   background-repeat: none;
   background-position: center; }
 
-.navbar {
+.navbar:first-child {
   height: 80px;
   background-color: rgba(255, 255, 255, 0.85); }
-  .navbar a {
+  .navbar:first-child a {
     font-weight: bold; }
 
 h2::after {
