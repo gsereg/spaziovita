@@ -159,7 +159,7 @@ body > * {
   background-position: center ;
 }
 
-.navbar {
+.navbar:first-child {
   height: 80px;
   a {
     font-weight:bold;
