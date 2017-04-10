@@ -6014,3 +6014,10 @@ body > * {
   background-color: rgba(255, 255, 255, 0.8); }
   .navbar a {
     font-weight: bold; }
+
+h2::after {
+  content: ' ';
+  display: block;
+  width: 80px;
+  height: 10px;
+  border-bottom: 2px solid #00baf1; }
